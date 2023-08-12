@@ -20,7 +20,7 @@ author_profile: true
 
 
 	
-## Work in progress
+## Works in progress
 ---
 **Why Do Legislators Form Links? Network Analysis on the House** (with Kevin Dano and Andrew Tai)
 
