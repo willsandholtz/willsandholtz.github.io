@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Will Sandholtz <br> UC Berkeley Economics"
+title: "Will Sandholtz <br> Berkeley Economics"
 excerpt: ""
 author_profile: true
 redirect_from: 
