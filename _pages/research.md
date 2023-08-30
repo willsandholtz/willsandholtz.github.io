@@ -24,8 +24,6 @@ author_profile: true
 ---
 **Why Do Legislators Form Links? Network Analysis on the House** (with Kevin Dano and Andrew Tai)
 
-**Preferences, Monadic Predicates, and Priority Structures** 
-
 
 
 
