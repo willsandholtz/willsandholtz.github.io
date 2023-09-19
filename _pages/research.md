@@ -24,6 +24,8 @@ author_profile: true
 ---
 **Why Do Legislators Form Links? Network Analysis on the House** (with Kevin Dano and Andrew Tai)
 
+**Learning(?) in Strategy-Proof Mechanisms** (with Andrew Tai)
+
 
 
 
