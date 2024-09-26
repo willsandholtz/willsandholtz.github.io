@@ -9,11 +9,9 @@ author_profile: true
 ## Publications
 ---
 
-[**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221)  
-*with Andrew Tai*, *Economics Letters*, October 2024
-
-  - [PDF](SandholtzTai24_economicsletters.pdf)  
-  - [Click for abstract](#abstract1)  
+[**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221) (with Andrew Tai)
+*Economics Letters*, October 2024  
+[PDF](SandholtzTai24_economicsletters.pdf) [Click for abstract](#abstract1)  
   - Highlighted in [Al Roth's blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)
 
 <div id="abstract1" style="display: none; text-align: justify;">
@@ -23,12 +21,8 @@ We note that the proofs of Bird (1984), the first to show group strategy-proofne
 ## Working papers
 ---
 
-**House-Swapping with Objective Indifferences**  
-*with Andrew Tai*
-
-  - [PDF](SandholtzTai_house_swapping.pdf)  
-  - [arXiv](https://arxiv.org/abs/house-swapping)  
-  - [Click for abstract](#abstract2)
+**House-Swapping with Objective Indifferences** (with Andrew Tai)
+[PDF](SandholtzTai_house_swapping.pdf) [arXiv](https://arxiv.org/abs/house-swapping) [Click for abstract](#abstract2)  
 
 <div id="abstract2" style="display: none; text-align: justify;">
 We propose a novel mechanism for house-swapping where agents can express objective indifferences between houses. The mechanism ensures stability and fairness under these conditions.
