@@ -11,7 +11,7 @@ author_profile: true
 
 [**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221) (with Andrew Tai)  
 *Economics Letters*, October 2024  
-&#x 21AA [PDF](SandholtzTai24_economicsletters.pdf)
+&#x21AA; [PDF](SandholtzTai24_economicsletters.pdf)
   - Highlighted in [Al Roth's blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)
 
 
@@ -19,7 +19,7 @@ author_profile: true
 ---
 
 **House-Swapping with Objective Indifferences** (with Andrew Tai)  
-&#x 21AA [PDF](SandholtzTai_house_swapping.pdf) &#x 21AA [arXiv](https://arxiv.org/abs/house-swapping)
+&#x21AA; [PDF](SandholtzTai_house_swapping.pdf) &#x21AA; [arXiv](https://arxiv.org/abs/house-swapping)
 
 
 ## Works in progress
