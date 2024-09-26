@@ -9,7 +9,7 @@ author_profile: true
 ##Publications
 ---
 
-[**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**(https://www.sciencedirect.com/science/article/pii/S0165176524004221)] (with Andrew Tai), Economics Letters, October 2024
+[[**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221)] (with Andrew Tai), Economics Letters, October 2024
 [[pdf](SandholtzTai24_economicsletters.pdf)]
 Highlighted in [[a short blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)] by Al Roth, 2012 Nobel laureate in economics
 
