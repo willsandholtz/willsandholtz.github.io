@@ -11,8 +11,7 @@ author_profile: true
 
 [**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221) (with Andrew Tai)  
 *Economics Letters*, October 2024  
-&#x21AA; [PDF](SandholtzTai24_economicsletters.pdf)
-  - Highlighted in [Al Roth's blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)
+&#x21AA; [PDF](SandholtzTai24_economicsletters.pdf) &#x21AA; Highlighted in [Al Roth's blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)  
 
 
 ## Working papers
@@ -24,8 +23,6 @@ author_profile: true
 
 ## Works in progress
 ---
-**Why Do Legislators Form Links? Network Analysis on the House** (with Kevin Dano and Andrew Tai)
-
 **Learning(?) in Strategy-Proof Mechanisms** (with Andrew Tai)
 
 
