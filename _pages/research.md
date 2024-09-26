@@ -9,11 +9,11 @@ author_profile: true
 ## Publications
 ---
 
-[[**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221)] (with Andrew Tai), Economics Letters, October 2024
+[**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221)(with Andrew Tai), Economics Letters, October 2024
 
 [[pdf](SandholtzTai24_economicsletters.pdf)]
 
-Highlighted in [[a short blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)] by Al Roth, 2012 Nobel laureate in economics
+Highlighted in [a short blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html) by Al Roth, 2012 Nobel laureate in economics
 
 We note that the proofs of Bird (1984), the first to show group strategy-proofness of top trading cycles (TTC), require correction. We provide a counterexample to a critical claim and present corrected proofs in the spirit of the originals. We also present a novel proof of strong group strategy-proofness using the corrected results.
 <br><br/></div>
