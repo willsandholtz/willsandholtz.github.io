@@ -9,24 +9,30 @@ author_profile: true
 ## Publications
 ---
 
-[**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221) (with Andrew Tai), Economics Letters, October 2024  
-    [[pdf](SandholtzTai24_economicsletters.pdf)] [<a href="#/" onclick="visib('econlet24')">click for abstract</a>]  
-<div id="econlet24" style="display: none; text-align: justify; line-height: 1.2">
+[**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221)  
+*with Andrew Tai*, *Economics Letters*, October 2024
+
+  - [PDF](SandholtzTai24_economicsletters.pdf)  
+  - [Click for abstract](#abstract1)  
+  - Highlighted in [Al Roth's blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)
+
+<div id="abstract1" style="display: none; text-align: justify;">
 We note that the proofs of Bird (1984), the first to show group strategy-proofness of top trading cycles (TTC), require correction. We provide a counterexample to a critical claim and present corrected proofs in the spirit of the originals. We also present a novel proof of strong group strategy-proofness using the corrected results.
 </div>
-    Highlighted in [a short blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html) by Al Roth, 2012 Nobel laureate in economics
-
-
 
 ## Working papers
 ---
 
-**House-Swapping with Objective Indifferences** (with Andrew Tai)  
-    [[pdf](SandholtzTai_HouseSwapwObjIndiff.pdf)] [[arXiv](https://arxiv.org/abs/2306.09529)] [<a href="#/" onclick="visib('ObjInd')">click for abstract</a>]
+**House-Swapping with Objective Indifferences**  
+*with Andrew Tai*
 
-<div id="ObjInd" style="display: none; text-align: justify; line-height: 1.2">
-	We study the classic house-swapping problem of Shapley and Scarf (1974) in a setting where agents may have "objective" indifferences, i.e., indifferences that are shared by all agents. In other words, if any one agent is indifferent between two houses, then all agents are indifferent between those two houses. The most direct interpretation is the presence of multiple copies of the same object. Our setting is a special case of the house-swapping problem with general indifferences. We derive a simple, easily interpretable algorithm that produces the unique strict core allocation of the house-swapping market, if it exists. Our algorithm runs in square-polynomial time, a substantial improvement over the cubed time methods for the more general problem. 
-<br><br/></div>
+  - [PDF](SandholtzTai_house_swapping.pdf)  
+  - [arXiv](https://arxiv.org/abs/house-swapping)  
+  - [Click for abstract](#abstract2)
+
+<div id="abstract2" style="display: none; text-align: justify;">
+We propose a novel mechanism for house-swapping where agents can express objective indifferences between houses. The mechanism ensures stability and fairness under these conditions.
+</div>
 
 ## Works in progress
 ---
