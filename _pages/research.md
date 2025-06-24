@@ -17,13 +17,10 @@ author_profile: true
 ## Working papers
 ---
 
-**House-Swapping with Objective Indifferences** (with Andrew Tai)  
-&#x21AA; [PDF](SandholtzTai_house_swapping.pdf) &#x21AA; [arXiv](https://arxiv.org/abs/house-swapping)
+**Shapley-Scarf Markets with Objective Indifferences** (with Andrew Tai)  
+&#x21AA; [PDF](sandholtztai_shapleyscarf.pdf) 
 
 
-## Works in progress
----
-**Learning(?) in Strategy-Proof Mechanisms** (with Andrew Tai)
 
 
 
