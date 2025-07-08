@@ -10,5 +10,7 @@ author_profile: true
 	* Fall 2023
 * Global Inequality and Growth, ECON 133
 	* Spring 2024
+* Economic Theory (Graduate level), ECON 201A
+	* Fall 2025
 
 
