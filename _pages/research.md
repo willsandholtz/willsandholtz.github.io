@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Publication
+## Publications
 ---
 
 [**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221) (with Andrew Tai)  
