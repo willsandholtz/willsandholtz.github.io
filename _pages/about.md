@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at UC Berkeley.  My primary academic interests are microeconomic theory and philosophy of economics.  My CV is available [here](https://willsandholtz.github.io/files/whs_cv.pdf).
+I am a PhD candidate in Economics at UC Berkeley.  My primary academic interests are microeconomic theory and public economics.  I am on the 2025-2026 job market.  My CV is available [here](https://willsandholtz.github.io/files/whs_cv.pdf).
 
 ### Latest Publication
 ---
