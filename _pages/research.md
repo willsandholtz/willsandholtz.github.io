@@ -10,13 +10,12 @@ author_profile: true
 ---
 
 [**Group Incentive Compatibility in a Market with Indivisible Goods: A Comment**](https://www.sciencedirect.com/science/article/pii/S0165176524004221) (with Andrew Tai)  
-*Economics Letters*, October 2024  
+*Economics Letters*, October 2024
 &#x21AA; [PDF](SandholtzTai24_economicsletters.pdf) &#x21AA; Highlighted in [Al Roth's blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)  
 
 
-## Working papers
+## Job Market Paper
 ---
-
 **Shapley-Scarf Markets with Objective Indifferences** (with Andrew Tai)  
 &#x21AA; [PDF](sandholtztai_shapleyscarf.pdf) 
 
