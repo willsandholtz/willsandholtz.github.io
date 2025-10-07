@@ -14,4 +14,4 @@ I am a PhD candidate in Economics at UC Berkeley.  My primary academic interests
 ---
 
 **Shapley-Scarf Markets with Objective Indifferences** (with Andrew Tai)  
-&#x21AA; [PDF](sandholtztai_shapleyscarf.pdf) 
+&#x21AA; [PDF](https://willsandholtz.github.io/research/sandholtztai_shapleyscarf.pdf) 
