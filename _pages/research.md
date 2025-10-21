@@ -19,8 +19,11 @@ author_profile: true
 **Shapley-Scarf Markets with Objective Indifferences** (with Andrew Tai)  
 &#x21AA; [PDF](sandholtztai_shapleyscarf.pdf) 
 
+## Works in Progress
+---
+**Continuity Properties of the Stable Correspondence in Two-Sided Matching Problems** (with Haluk Ergin)
 
-
+**Random Matching with Minima and Quorums** (with Andrew Tai)
 
 
 [//]: This java script is the button to show abstract
