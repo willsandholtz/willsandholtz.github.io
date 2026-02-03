@@ -14,9 +14,9 @@ author_profile: true
 &#x21AA; [PDF](SandholtzTai24_economicsletters.pdf) &#x21AA; Highlighted in [Al Roth's blog post](https://marketdesigner.blogspot.com/2024/09/a-40-year-old-proof-about-top-trading.html)  
 
 
-## Job Market Paper
+## Job Market Paper *(Submitted)*
 ---
-**Shapley-Scarf Markets with Objective Indifferences** (with Andrew Tai)  
+**Shapley-Scarf Markets with Objective Indifferences** (with Andrew Tai)
 &#x21AA; [PDF](sandholtztai_shapleyscarf.pdf) 
 
 ## Works in Progress
